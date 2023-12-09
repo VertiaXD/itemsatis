@@ -1,0 +1,18 @@
+{
+  "varsayilan": { 
+    "mesaj": "Selam!",
+    "gecikme": 2000
+  },
+  "merhaba": {
+    "mesaj": "Merhaba! Size nasıl yardımcı olabilirim?",
+    "gecikme": 2000
+  },
+  "teşekkür ederim": {
+    "mesaj": "Rica ederim. Başka bir sorunuz varsa sormaktan çekinmeyin.",
+    "gecikme": 3000
+  },
+  "sorum olacak": {
+    "mesaj": "Eğer bir sorunuz varsa, lütfen sorunuzu detaylıca yazın, böylece size daha iyi yardımcı olabilirim.",
+    "gecikme": 4000
+  }
+}

@@ -1,0 +1,3 @@
+1-nodejs yoksa nodejs kurduktan sonra cmd yi açıp "npm i socket.io-client" (tırnakları silin) yazın, kurulum bittikten sonra config.jsona username userid ve sockettokeni girin(bulamazsanız yardımcı olucam)
+
+2-cevaplar.jsondan istediginiz soruyu ve cevabı belirleyip sonra gecikmeyi ayarladıktan sonra açın ve bitti
